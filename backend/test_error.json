@@ -1,0 +1,5 @@
+{
+  "name": "ProviderApiError",
+  "message": "Failed to perform inference: an HTTP error occurred when requesting the provider.",
+  "stack": "ProviderApiError: Failed to perform inference: an HTTP error occurred when requesting the provider.\n    at innerRequest (file:///C:/Users/gnane/.gemini/antigravity/scratch/startup-strategist/backend/node_modules/@huggingface/inference/dist/esm/utils/request.js:53:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async chatCompletion (file:///C:/Users/gnane/.gemini/antigravity/scratch/startup-strategist/backend/node_modules/@huggingface/inference/dist/esm/tasks/nlp/chatCompletion.js:22:32)\n    at async run (file:///C:/Users/gnane/.gemini/antigravity/scratch/startup-strategist/backend/[eval1]:10:9)"
+}
